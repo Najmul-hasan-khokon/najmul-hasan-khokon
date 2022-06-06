@@ -40,9 +40,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Najmul-hasan-khokon)  
 
-![GitHub metrics](https://metrics.lecoq.io/Najmul-hasan-khokon)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Najmul-hasan-khokon)  
 
 ![Profile views](https://gpvc.arturio.dev/Najmul-hasan-khokon)  
 
