@@ -3,6 +3,10 @@
 ### I am Web Designer and Developer
 
 
+![Profile views](https://gpvc.arturio.dev/Najmul-hasan-khokon)  
+
+
+
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.  some technologies I enjoy working with include ReactJS, NextJs  and JavaScript .
 
 
@@ -26,24 +30,9 @@ I’m a Front End Web developer who is passionate about making error-free websit
  
 
 
-
-
-
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Najmul-hasan-khokon)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-hasan-khokon)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-![Profile views](https://gpvc.arturio.dev/Najmul-hasan-khokon)  
-
 
 
 
