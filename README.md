@@ -38,7 +38,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Najmul-hasan-khokon&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Najmul-hasan-khokon)  
+
 
 
 
