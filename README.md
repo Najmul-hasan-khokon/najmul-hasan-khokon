@@ -9,6 +9,7 @@ Skills: REACT / NEXT/ JS / HTML / CSS / BOOTSTRAP / REDUX
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
+- 📫 How to reach me: najmulhasankhokon111@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Najmul-hasan-khokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmul-hasan-524901224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100028249220053)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/najmul-hasan-khokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://peaceful-pare-387e4b.netlify.app/)  
