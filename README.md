@@ -14,9 +14,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ Photoshop / Illustrator <br>
 
 
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+
 - 📫 How to reach me: najmulhasankhokon111@gmail.com 
 
 
