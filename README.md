@@ -8,7 +8,46 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Skills: REACT / NEXT/ JS / HTML / CSS / BOOTSTRAP / REDUX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
