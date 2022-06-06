@@ -1,4 +1,4 @@
-!<img src="https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?b=1&k=20&m=1047259374&s=170667a&w=0&h=6ER4n81WAjZ-1X-RQwbhJcSeNGiqGJLLdawL1xLIWl0=" alt="" />
+!<img src="https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?b=1&k=20&m=1047259374&s=170667a&w=0&h=6ER4n81WAjZ-1X-RQwbhJcSeNGiqGJLLdawL1xLIWl0=" style='margin-left: 150px' alt="" />
 
 ## Hi there 👋, I'm Najmul Hasan
 ### I am Web Designer and Developer
