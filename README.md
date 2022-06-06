@@ -29,9 +29,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
  
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Najmul-hasan-khokon)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-hasan-khokon)](https://github.com/anuraghazra/github-readme-stats)
 
 
