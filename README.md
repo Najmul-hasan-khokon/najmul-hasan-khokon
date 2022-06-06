@@ -36,7 +36,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul-hasan-khokon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Najmul-hasan-khokon&show_icons=true&count_private=true)  
+
 
 
 
