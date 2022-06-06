@@ -1,15 +1,23 @@
+![I am Web Designer and Developer](https://scontent.fcgp4-1.fna.fbcdn.net/v/t1.6435-9/41210583_123512005267106_993850153779593216_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHSo_9YPbH6Gvw7RVLGCi-GcFztHP-f0jdwXO0c_5_SN9Gw71l9YRWtgPrbCmFHRiD7UuYWIiyLGtmJDBfoNy5E&_nc_ohc=sez57Kbd0wQAX9gmcjq&_nc_ht=scontent.fcgp4-1.fna&oh=00_AT_oN4MGSuXjaJvgOAg-vs3X5tbjbiraPJ9zRGi4vnHpbg&oe=62C50921)
+
 ## Hi there 👋, I'm Najmul Hasan
 ### I am Web Designer and Developer
-![I am Web Designer and Developer](https://scontent.fcgp4-1.fna.fbcdn.net/v/t1.6435-9/41210583_123512005267106_993850153779593216_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHSo_9YPbH6Gvw7RVLGCi-GcFztHP-f0jdwXO0c_5_SN9Gw71l9YRWtgPrbCmFHRiD7UuYWIiyLGtmJDBfoNy5E&_nc_ohc=sez57Kbd0wQAX9gmcjq&_nc_ht=scontent.fcgp4-1.fna&oh=00_AT_oN4MGSuXjaJvgOAg-vs3X5tbjbiraPJ9zRGi4vnHpbg&oe=62C50921)
+
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.  some technologies I enjoy working with include ReactJS, NextJs  and JavaScript .
 
+
+
 Skills: REACT / NEXT/ JS / HTML / CSS / BOOTSTRAP / REDUX
+
+
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: najmulhasankhokon111@gmail.com 
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Najmul-hasan-khokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmul-hasan-524901224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100028249220053)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/najmul-hasan-khokon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://peaceful-pare-387e4b.netlify.app/)  
